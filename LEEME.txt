@@ -1,0 +1,15 @@
+PÁGINA SORPRESA PARA MI GORDITO
+
+Abre index.html en Chrome para ver la página.
+Edita los textos en index.html, los colores/diseño en styles.css y las interacciones en app.js.
+
+FOTOS:
+Coloca tus fotos dentro de la carpeta fotos con estos nombres:
+- portada.jpg (foto de ustedes para la portada)
+- foto1.jpg
+- foto2.jpg
+- foto3.jpg
+
+Los marcos se mostrarán aunque todavía no hayas agregado fotos.
+Para que las fuentes decorativas se vean como en el diseño, se necesita conexión a internet.
+Para compartirla con Adrián mediante un enlace y QR, hay que publicarla en GitHub Pages.
